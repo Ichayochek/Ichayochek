@@ -29,6 +29,9 @@
 - Визуализация:
   *Matplotlib, Seaborne, Plotly*
 
+- Прочие компетенции:
+  *А/Б тестирование, исследовательский анализ данных, предобработка данных, описательная статистика, когортный анализ, юнит-экеономика, продуктовые метрики, построение [дашбордов](https://public.tableau.com/views/ProjectV1_17050235468200/Tableau?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)*
+
 ***
 
 **Проекты из курса Яндекс Практикума "Аналитик Данных" собраны в отдельный [репозиторий](https://github.com/Ichayochek/Practicum-projects).**
